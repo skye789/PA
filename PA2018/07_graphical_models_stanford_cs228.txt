@@ -1,0 +1,6 @@
+The lecture notes to Stanfords CS228 class provide a general introduction to
+graphical models, with explanation of the most important concepts.
+
+The link is:
+https://ermongroup.github.io/cs228-notes/
+

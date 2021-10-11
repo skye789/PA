@@ -1,0 +1,4 @@
+Unsupervised methods are discussed in chapter 14 of the book "The Elements of
+Statistical Learning" by Hastie, Tibshirani, Friedman.
+
+The book is available online here: https://web.stanford.edu/~hastie/ElemStatLearn/

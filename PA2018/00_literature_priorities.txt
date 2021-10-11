@@ -1,0 +1,14 @@
+References with must-read content:
+02_comaniciu_meer_pami_2002_mean_shift.pdf
+03_ng_on_spectral_clustering_analysis_and_an_algorithm.pdf
+06_criminisi_shotton_forests.pdf
+07_graphical_models_stanford_cs228.txt
+08_rabiner_hmm.pdf
+
+References mainly intended for background information (of course, not to be
+confused with "unimportant"!):
+01_unsupervised_methods_hastie_tibshirani_friedman.txt
+04_saul_roweis_unsupervised_learning_of_low_dimensional_manifolds.pdf
+05_belkin_niyogi_nc_2003_laplacian_eigenmaps.pdf
+09_geman_1990_mrfs_on_images.pdf
+10_kolmogorov_pami_2004_graph_cuts.pdf
